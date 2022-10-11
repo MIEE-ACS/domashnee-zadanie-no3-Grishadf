@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/ESbh1gT8cA53Gx9QpkVfHAezEPzG716M4rLbpbKfAFYYnp9qBQS4Z/Xm5lIyzKMKhiQmUnZQ20xYwidIcCvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Domashka_3\\Domashka_3\\Domashka_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
