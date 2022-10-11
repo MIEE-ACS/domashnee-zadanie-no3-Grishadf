@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Domashka_3\Domashka_3\bin\Debug\netcoreapp3.1\Domashka_3.exe
+C:\Users\User\source\repos\Domashka_3\Domashka_3\bin\Debug\netcoreapp3.1\Domashka_3.deps.json
+C:\Users\User\source\repos\Domashka_3\Domashka_3\bin\Debug\netcoreapp3.1\Domashka_3.runtimeconfig.json
+C:\Users\User\source\repos\Domashka_3\Domashka_3\bin\Debug\netcoreapp3.1\Domashka_3.runtimeconfig.dev.json
+C:\Users\User\source\repos\Domashka_3\Domashka_3\bin\Debug\netcoreapp3.1\Domashka_3.dll
+C:\Users\User\source\repos\Domashka_3\Domashka_3\bin\Debug\netcoreapp3.1\Domashka_3.pdb
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.Form1.resources
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.dll
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.pdb
+C:\Users\User\source\repos\Domashka_3\Domashka_3\obj\Debug\netcoreapp3.1\Domashka_3.genruntimeconfig.cache
